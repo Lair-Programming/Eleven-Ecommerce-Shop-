@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Lightweight Jacket">
+<rect width="800" height="1000" fill="#EAE6DC"/>
+<ellipse cx="400" cy="900" rx="230" ry="18" fill="#000" opacity="0.07"/>
+<g stroke="#3A3A3A" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+<path d="M290 220 L170 262 L95 650 L185 672 L250 410 L250 800 L550 800 L550 410 L615 672 L705 650 L630 262 L510 220 Q400 300 290 220 Z" fill="#111111"/>
+<path d="M290 220 L345 240 L400 300 L400 800 M510 220 L455 240 L400 300" fill="none"/>
+<path d="M290 220 L345 240 L400 300 L400 330 L335 262 Z M510 220 L455 240 L400 300 L400 330 L465 262 Z" fill="#2A2A2A"/>
+<path d="M290 600 L350 600 M450 600 L510 600" fill="none"/>
+</g>
+<text x="400" y="960" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" letter-spacing="4" fill="#8A7A63">SAMPLE IMAGE</text>
+</svg>

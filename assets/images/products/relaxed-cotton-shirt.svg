@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Relaxed Cotton Shirt">
+<rect width="800" height="1000" fill="#EAE6DC"/>
+<ellipse cx="400" cy="900" rx="230" ry="18" fill="#000" opacity="0.07"/>
+<g stroke="#BDBAB3" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+<path d="M285 215 L150 262 L80 660 L175 685 L238 420 L238 810 L562 810 L562 420 L625 685 L720 660 L650 262 L515 215 Q400 290 285 215 Z" fill="#F3EFE6"/>
+<path d="M290 220 L345 240 L400 330 L335 262 Z M510 220 L455 240 L400 330 L465 262 Z" fill="#FFFDF3"/>
+<path d="M400 330 L400 800" fill="none"/>
+<circle cx="400" cy="380" r="5" fill="#BDBAB3"/>
+<circle cx="400" cy="470" r="5" fill="#BDBAB3"/>
+<circle cx="400" cy="560" r="5" fill="#BDBAB3"/>
+<circle cx="400" cy="650" r="5" fill="#BDBAB3"/>
+<circle cx="400" cy="740" r="5" fill="#BDBAB3"/>
+</g>
+<text x="400" y="960" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" letter-spacing="4" fill="#8A7A63">SAMPLE IMAGE</text>
+</svg>

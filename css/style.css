@@ -1,0 +1,74 @@
+/* ---------- Navigation links: underline grows on hover ---------- */
+.nav-link {
+    position: relative;
+    padding: 6px 0;
+    color: #111111;
+}
+
+.nav-link::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 2px;
+    background-color: #B8AA96;
+    /* taupe underline */
+    transform: scaleX(0);
+    /* hidden: zero width */
+    transform-origin: left;
+    transition: transform 0.3s ease;
+}
+
+/* Underline shows on hover, keyboard focus, and for the current page */
+.nav-link:hover::after,
+.nav-link:focus-visible::after,
+.nav-link.is-active::after {
+    transform: scaleX(1);
+}
+
+/* ---------- Header: soft shadow after scrolling ---------- */
+#site-header {
+    transition: box-shadow 0.3s ease;
+}
+
+#site-header.has-shadow {
+    box-shadow: 0 2px 12px rgba(17, 17, 17, 0.06);
+}
+
+/* ---------- Category tiles on the homepage ---------- */
+.category-tile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 140px;
+    background-color: #F3EFE6;
+    border: 1px solid #E5E1D8;
+    border-radius: 16px;
+    font-size: 1.125rem;
+    font-weight: 600;
+    transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
+}
+
+.category-tile:hover {
+    background-color: #111111;
+    color: #F3EFE6;
+    transform: translateY(-2px);
+}
+
+/* ---------- Keyboard focus (accessibility) ---------- */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+    outline: 2px solid #8A7A63;
+    outline-offset: 3px;
+}
+/* ---------- Footer links: cream, turn taupe and nudge right on hover ---------- */
+.footer-link {
+  color: rgba(243, 239, 230, 0.85);
+  transition: color 0.2s ease;
+}
+
+.footer-link:hover {
+  color: #B8AA96;
+}

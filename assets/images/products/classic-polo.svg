@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Classic Polo">
+<rect width="800" height="1000" fill="#EAE6DC"/>
+<ellipse cx="400" cy="900" rx="230" ry="18" fill="#000" opacity="0.07"/>
+<g stroke="#171F2E" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+<path d="M290 220 L175 275 L120 410 L215 440 L250 375 L250 800 L550 800 L550 375 L585 440 L680 410 L625 275 L510 220 Q400 300 290 220 Z" fill="#1E293B"/>
+<path d="M290 220 L350 250 L400 330 L345 262 Z M510 220 L450 250 L400 330 L455 262 Z" fill="#1F2B3E"/>
+<path d="M400 330 L400 470" fill="none"/>
+<circle cx="400" cy="370" r="5" fill="#171F2E"/><circle cx="400" cy="425" r="5" fill="#171F2E"/>
+</g>
+<text x="400" y="960" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" letter-spacing="4" fill="#8A7A63">SAMPLE IMAGE</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Relaxed T-Shirt">
+<rect width="800" height="1000" fill="#EAE6DC"/>
+<ellipse cx="400" cy="900" rx="230" ry="18" fill="#000" opacity="0.07"/>
+<g stroke="#BDBAB3" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+<path d="M290 220 L175 275 L120 410 L215 440 L250 375 L250 800 L550 800 L550 375 L585 440 L680 410 L625 275 L510 220 Q400 300 290 220 Z" fill="#F3EFE6"/>
+<path d="M290 220 Q400 300 510 220" fill="none"/>
+<path d="M290 232 Q400 312 510 232" fill="none" opacity="0.5"/>
+</g>
+<text x="400" y="960" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" letter-spacing="4" fill="#8A7A63">SAMPLE IMAGE</text>
+</svg>
