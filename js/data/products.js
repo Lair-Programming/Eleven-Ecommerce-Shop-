@@ -1,12 +1,4 @@
-// ============================================================
-// Classic Eleven: sample product data (prototype only)
-// Prices and descriptions are sample data, not real store data.
-// Every page reads products from this one file.
-//
-// IMAGES: right now each image is a placeholder .svg file.
-// When you have real photos, save them in the same folder and
-// change the ending of the path to .jpg (for example
-// "assets/images/products/essential-hoodie.jpg").
+
 // ============================================================
 
 // A few colors we reuse, so we don't repeat ourselves
